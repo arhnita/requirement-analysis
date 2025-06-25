@@ -144,6 +144,14 @@ Examples: Performance, security, scalability, usability, reliability.
 - Efficient data retention and archival policies
 
 ## Use Case Diagrams
+Use Case Diagrams provide a visual representation of how users interact with a system and what actions they can perform.
+
+Benefits:
+
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team
+
 Please find the link to the use case diagram below
 ![Use Case Diagram](alx-booking-uc.png)
 
