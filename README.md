@@ -167,3 +167,8 @@ Acceptance criteria are conditions that a feature must meet to be accepted by th
 - Ensure all parties have a clear understanding of feature requirements.
 - Provide a basis for testing and validation.
 - Help in maintaining quality and meeting user expectations.
+
+### Example (Checkout Feature in Booking System)
+- The system should send a confirmation email to the user.
+- User must be able to review the booking details before confirming.
+- A confirmation message should appear after successful payment.
