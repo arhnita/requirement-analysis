@@ -145,6 +145,8 @@ Examples: Performance, security, scalability, usability, reliability.
 
 ## Use Case Diagrams
 Please find the link to the use case diagram below
+![Use Case Diagram](alx-booking-uc.png)
+
 ![Image](https://github.com/user-attachments/assets/a1508776-bd3d-4964-ba92-ca8f617e313c)
 
 ## Acceptance Criteria.
