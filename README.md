@@ -44,11 +44,11 @@ The key activities in requirements analysis consists of 5 steps
    - Traceability: Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
 ## Types of Requirements.
-1. # Functional Requirements
+1. ## Functional Requirements
 Definition: Describe what the system should do.
 Examples: User authentication, property search, booking system, user registration.
 
-Key Functional Requirements:
+## Key Functional Requirements:
 
 ### Hotel Management Service:
 
@@ -86,7 +86,7 @@ Key Functional Requirements:
 Definition: Describe how the system should perform.
 Examples: Performance, security, scalability, usability, reliability.
 
-# Key Non-functional Requirements:
+## Key Non-functional Requirements:
 
 ### Scalability:
 
