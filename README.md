@@ -2,7 +2,7 @@
 
 The purpose of this repositry is to focus on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements.
 
-# What is Requirement Analysis?
+## What is Requirement Analysis?
 
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
@@ -145,6 +145,7 @@ Examples: Performance, security, scalability, usability, reliability.
 
 # Use Case Diagrams
 Please find the link to the use case diagram below
+![Image](https://github.com/user-attachments/assets/a1508776-bd3d-4964-ba92-ca8f617e313c)
 
 # Acceptance Criteria.
 Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
